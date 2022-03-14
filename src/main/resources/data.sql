@@ -1,0 +1,1 @@
+insert into CRYPTOASSET (symbol, total) values ('BTC',0.5);
